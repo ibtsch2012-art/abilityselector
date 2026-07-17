@@ -18,10 +18,10 @@ This is one of my very first Python projects as I begin my programming journey! 
 ## 🎮 How to Run
 
 1. Make sure you have [Python](https://www.python.org/downloads/) installed.
-2. Clone this repository or download the `Test.py` file.
+2. Clone this repository or download the `ability_selector.py` file.
 3. Open your terminal or command prompt and run:
    ```bash
-   python Test.py
+   python ability_selector.py
 
     Type in your chosen ability and hit Enter!
 
